@@ -20,3 +20,7 @@ The deployment constructor data follows:
     
 
 From https://github.com/ethereum/solidity/releases?after=v0.4.5, Solidity v0.4.4 was released Nov 01 2016, v0.4.3 was released Oct 26 2016, v0.4.2 was released Sep 17 2016.
+
+The code deployed has been optimised.
+
+The owner of the contract has provide the source code for this EMV token - see [contracts/EMV.sol](contracts/EMV.sol).
